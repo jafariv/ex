@@ -8,8 +8,11 @@ for (i=2; i<11; i+=2){
 
 for (j=2; j<11; j+=2){
 
+
         std::cout << "ooooooooooooooooooooo" << std::endl;
 	std::cout << "oooooooooo+++++++++++++++++++ooooooooooo" << std::endl;
+        std::cout << "oooooooooo*******************ooooooooooo" << std::endl;
+
 
 }
 
