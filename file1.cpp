@@ -8,7 +8,7 @@ for (i=2; i<11; i+=2){
 
 for (j=2; j<11; j+=2){
 
-        std::cout << "............." << std::endl;
+        std::cout << "ooooooooooooooooooooo" << std::endl;
 
 }
 
